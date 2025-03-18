@@ -1,0 +1,15 @@
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.sourcelink.json
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+E:\Колледж\тестування\Практика\git\guess-the-number\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
